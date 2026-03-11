@@ -71,12 +71,10 @@ Desenvolvedor independente com foco em soluções web completas. esse perfil ser
 <div align="center">
 
 <a href="https://kitsune-free.vercel.app">
-  <img src="https://kitsune-free
-.vercel.app/api/github-stats/florest-555?theme=sunset&compat=github" width="400" alt="Estatísticas">
+  <img src="https://kitsune-free.vercel.app/api/github-stats/florest-555?theme=sunset&compat=github" width="400" alt="Estatísticas">
 </a>
 <a href="https://kitsune-free.vercel.app">
-  <img src="https://kitsune-free
-.vercel.app/api/github-langs/florest-555?theme=florest&compat=github" width="400" alt="Linguagens">
+  <img src="https://kitsune-free.vercel.app/api/github-langs/florest-555?theme=florest&compat=github" width="400" alt="Linguagens">
 </a>
 
 </div>
