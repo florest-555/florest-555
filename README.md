@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá!
+## Desenvolvedor Full-Stack
 
 </div>
 
@@ -14,12 +14,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-## Desenvolvedor Full-Stack
-
-</div>
 
 ### Sobre
 
