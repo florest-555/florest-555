@@ -1,8 +1,4 @@
-<div align="center">
-
-## Desenvolvedor Full-Stack
-
-</div>
+#
 
 <div align="center">
 
@@ -56,24 +52,12 @@ Desenvolvedor independente com foco em soluções web completas. esse perfil ser
 
 ---
 
-### Contato
-
 <div align="center">
 
-- Se precisar, pode entrar em contato comigo por esse e-mail.
-
-[![Gmail](https://kitsune-free.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
+![Visitors](https://kitsune-free.vercel.app/api/visitors/wolf-5-5-5/badge.svg?label=visitors&labelColor=000000&valueColor=dc143c)
 
 </div>
 
 ---
 
-<div align="center">
-
-![Visitantes](https://kitsune-free.vercel.app/api/visitors/wolf-5-5-5/badge.svg?label=visitantes)
-
-</div>
-
----
-
-<img align="right" src="./img/fenix.png" width="90" height="90"/>
+<img align="right" src="./img/fenix.png" width="100" height="100"/>
