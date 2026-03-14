@@ -60,4 +60,6 @@ Desenvolvedor independente com foco em soluções web completas. esse perfil ser
 
 ---
 
+<!-- Não sei se te interessa, mas vou fazer uma pausa pra por o funcionamento do corpo no lugar, devo ter engordado uns 10kg esses ultimos dias. -->
+
 <img align="right" src="./img/fenix.png" width="100" height="100"/>
